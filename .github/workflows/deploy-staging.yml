@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: skravops-cmd-azure-ttt
-  AZURE_WEBAPP_NAME: skravops-cmd-ttt-app
+  DOCKER_IMAGE_NAME: skravops-cmd-azure-ttt 
+  AZURE_WEBAPP_NAME: skravops-cmd-ttt-app 
   ###############################################
 
 jobs:
